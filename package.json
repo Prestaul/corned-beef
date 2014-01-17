@@ -1,0 +1,19 @@
+{
+  "name": "corned-beef",
+  "version": "0.0.2",
+  "description": "Create a hash value for any javascript object",
+  "main": "index.js",
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test/*.test.js"
+  },
+  "author": "Matt Dunlap <mpdunlap@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:Prestaul/corned-beef.git"
+  },
+  "devDependencies": {
+    "mocha": "~1.13.0",
+    "chai": "~1.8.1"
+  }
+}
